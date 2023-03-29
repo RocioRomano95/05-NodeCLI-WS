@@ -1,0 +1,47 @@
+{
+   "checksum": "753311741b246f6f4a64fc8f279455b9",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13324081319617368",
+            "date_last_used": "0",
+            "guid": "bed4fa14-08d8-4ae6-a81c-861967b7c1e0",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "videollamadaBootCamp",
+            "type": "url",
+            "url": "https://meet.google.com/ska-mshb-ivp"
+         } ],
+         "date_added": "13323896999744845",
+         "date_last_used": "0",
+         "date_modified": "13324081319617368",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13323896999744846",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13323896999744847",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos del celular",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

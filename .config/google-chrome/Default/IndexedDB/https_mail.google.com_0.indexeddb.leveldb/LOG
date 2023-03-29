@@ -1,0 +1,9 @@
+2023/03/28-11:37:28.182 10a9 Reusing MANIFEST /home/rocio/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/28-11:37:28.182 10a9 Recovering log #11
+2023/03/28-11:37:28.185 10a9 Reusing old log /home/rocio/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000011.log 
+2023/03/28-11:37:30.642 10a9 Compacting 1@1 + 1@2 files
+2023/03/28-11:37:30.650 10a9 Generated table #14@1: 166 keys, 294767 bytes
+2023/03/28-11:37:30.650 10a9 Compacted 1@1 + 1@2 files => 294767 bytes
+2023/03/28-11:37:30.653 10a9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/28-11:37:30.653 10a9 Delete type=2 #9
+2023/03/28-11:37:30.653 10a9 Delete type=2 #12

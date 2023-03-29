@@ -1,0 +1,35 @@
+["INFO" - 12:21:47] Extension Name: esbenp.prettier-vscode.
+["INFO" - 12:21:47] Extension Version: 9.10.4.
+["INFO" - 12:22:03] Formatting file:///home/rocio/code/01-Estructura-de-datos-WS/01_queue/queue.js
+["INFO" - 12:22:03] Using ignore file (if present) at /home/rocio/code/01-Estructura-de-datos-WS/.prettierignore
+["INFO" - 12:22:03] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 12:22:03] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:22:03] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/01-Estructura-de-datos-WS/01_queue/queue.js",
+  "parser": "babel"
+}
+["INFO" - 12:22:03] Formatting completed in 83ms.

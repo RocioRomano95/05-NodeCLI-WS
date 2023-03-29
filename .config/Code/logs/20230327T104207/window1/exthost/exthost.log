@@ -1,0 +1,14 @@
+2023-03-27 10:42:08.745 [info] Extension host with pid 34449 started
+2023-03-27 10:42:08.745 [info] Skipping acquiring lock for /home/rocio/.config/Code/User/workspaceStorage/ebf7d3a412f387eaeceebea6d6f77102.
+2023-03-27 10:42:08.854 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2023-03-27 10:42:08.882 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-03-27 10:42:08.889 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-03-27 10:42:08.892 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-03-27 10:42:09.327 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-03-27 10:42:09.362 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-03-27 10:42:09.624 [info] Eager extensions activated
+2023-03-27 10:42:09.856 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-03-27 10:42:09.864 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-03-27 10:42:09.885 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-03-27 10:42:11.334 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-03-27 10:42:11.418 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'

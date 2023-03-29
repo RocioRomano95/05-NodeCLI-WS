@@ -1,0 +1,15 @@
+2023-03-27 13:33:07.903 [info] Log level: Info
+2023-03-27 13:33:07.903 [info] Validating found git in: "git"
+2023-03-27 13:33:07.903 [info] Using git "2.34.1" from "git"
+2023-03-27 13:33:07.907 [info] > git rev-parse --show-toplevel [4ms]
+2023-03-27 13:33:07.907 [info] fatal: esta operación debe ser realizada en un árbol de trabajo
+2023-03-27 13:33:07.925 [info] > git rev-parse --show-toplevel [12ms]
+2023-03-27 13:33:07.925 [info] fatal: esta operación debe ser realizada en un árbol de trabajo
+2023-03-27 13:33:07.931 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-27 13:33:07.931 [info] fatal: esta operación debe ser realizada en un árbol de trabajo
+2023-03-27 13:33:07.937 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-27 13:33:07.937 [info] fatal: esta operación debe ser realizada en un árbol de trabajo
+2023-03-27 13:33:07.941 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-27 13:33:07.941 [info] fatal: esta operación debe ser realizada en un árbol de trabajo
+2023-03-27 13:33:07.945 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-27 13:33:07.945 [info] fatal: esta operación debe ser realizada en un árbol de trabajo

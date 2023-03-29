@@ -1,0 +1,23 @@
+2023-03-28 11:51:17.460 [info] update#setState idle
+2023-03-28 11:51:18.438 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-03-28 11:51:18.447 [info] [UtilityProcess id: 1, type: extensionHost, pid: 3306]: successfully created
+2023-03-28 11:51:18.552 [info] [UtilityProcess id: 2, type: extensionHost, pid: <none>]: creating new...
+2023-03-28 11:51:18.561 [info] [UtilityProcess id: 2, type: extensionHost, pid: 3320]: successfully created
+2023-03-28 11:51:47.463 [info] update#setState checking for updates
+2023-03-28 11:51:47.713 [info] update#setState idle
+2023-03-28 12:05:42.752 [info] [UtilityProcess id: 2, type: extensionHost, pid: 3320]: received exit event with code 0
+2023-03-28 12:05:42.752 [info] Extension host with pid 3320 exited with code: 0, signal: unknown.
+2023-03-28 12:05:43.347 [info] [UtilityProcess id: 3, type: extensionHost, pid: <none>]: creating new...
+2023-03-28 12:05:43.353 [info] [UtilityProcess id: 3, type: extensionHost, pid: 5406]: successfully created
+2023-03-28 12:51:47.492 [info] update#setState checking for updates
+2023-03-28 12:51:48.250 [info] update#setState idle
+2023-03-28 13:51:47.513 [info] update#setState checking for updates
+2023-03-28 13:51:48.266 [info] update#setState idle
+2023-03-28 14:51:47.538 [info] update#setState checking for updates
+2023-03-28 14:51:48.320 [info] update#setState idle
+2023-03-28 15:51:47.562 [info] update#setState checking for updates
+2023-03-28 15:51:48.324 [info] update#setState idle
+2023-03-28 16:51:47.585 [info] update#setState checking for updates
+2023-03-28 16:51:48.344 [info] update#setState idle
+2023-03-28 17:51:47.611 [info] update#setState checking for updates
+2023-03-28 17:51:48.377 [info] update#setState idle

@@ -1,0 +1,294 @@
+["INFO" - 12:05:43] Extension Name: esbenp.prettier-vscode.
+["INFO" - 12:05:43] Extension Version: 9.10.4.
+["INFO" - 14:16:06] Formatting file:///home/rocio/code/04-GameOfLife/04-Conway-s-Game-of-Life-WS/game.js
+["INFO" - 14:16:06] Using ignore file (if present) at /home/rocio/code/04-GameOfLife/.prettierignore
+["INFO" - 14:16:06] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 14:16:06] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:16:06] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/04-GameOfLife/04-Conway-s-Game-of-Life-WS/game.js",
+  "parser": "babel"
+}
+["ERROR" - 14:16:06] Error formatting document.
+["ERROR" - 14:16:06] Unexpected token (47:1)
+  45 |     }
+  46 |   },
+> 47 | ,
+     | ^
+  48 |
+  49 |   setupBoardEvents: function () {
+  50 |     // Cada celda del tablero tiene un ID CSS con el formato "x-y"
+SyntaxError: Unexpected token (47:1)
+  45 |     }
+  46 |   },
+> 47 | ,
+     | ^
+  48 |
+  49 |   setupBoardEvents: function () {
+  50 |     // Cada celda del tablero tiene un ID CSS con el formato "x-y"
+	at d (/home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/parser-babel.js:22:1054)
+	at f (/home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/parser-babel.js:22:1287)
+	at Object.parse (/home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/parser-babel.js:29:53146)
+	at Object.parse (/home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/index.js:7331:23)
+	at coreFormat (/home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/index.js:8645:18)
+	at formatWithCursor2 (/home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/index.js:8837:18)
+	at /home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/index.js:37832:12
+	at Object.format (/home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/index.js:37846:12)
+	at t.default.format (/home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/dist/extension.js:1:14731)
+	at async t.PrettierEditProvider.provideEdits (/home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/dist/extension.js:1:11417)
+	at async q.provideDocumentFormattingEdits (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:39883)
+["INFO" - 14:16:06] Formatting completed in 82ms.
+["INFO" - 14:16:30] Formatting file:///home/rocio/code/04-GameOfLife/04-Conway-s-Game-of-Life-WS/game.js
+["INFO" - 14:16:30] Using ignore file (if present) at /home/rocio/code/04-GameOfLife/.prettierignore
+["INFO" - 14:16:30] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 14:16:30] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:16:30] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/04-GameOfLife/04-Conway-s-Game-of-Life-WS/game.js",
+  "parser": "babel"
+}
+["INFO" - 14:16:30] Formatting completed in 71ms.
+["INFO" - 16:05:37] Formatting file:///home/rocio/code/04-GameOfLife/04-Conway-s-Game-of-Life-WS/game.js
+["INFO" - 16:05:37] Using ignore file (if present) at /home/rocio/code/04-GameOfLife/.prettierignore
+["INFO" - 16:05:37] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 16:05:37] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 16:05:37] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/04-GameOfLife/04-Conway-s-Game-of-Life-WS/game.js",
+  "parser": "babel"
+}
+["INFO" - 16:05:37] Formatting completed in 54ms.
+["INFO" - 16:05:38] Formatting file:///home/rocio/code/04-GameOfLife/04-Conway-s-Game-of-Life-WS/game.js
+["INFO" - 16:05:38] Using ignore file (if present) at /home/rocio/code/04-GameOfLife/.prettierignore
+["INFO" - 16:05:38] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 16:05:38] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 16:05:38] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/04-GameOfLife/04-Conway-s-Game-of-Life-WS/game.js",
+  "parser": "babel"
+}
+["INFO" - 16:05:38] Formatting completed in 48ms.
+["INFO" - 16:05:38] Formatting file:///home/rocio/code/04-GameOfLife/04-Conway-s-Game-of-Life-WS/game.js
+["INFO" - 16:05:38] Using ignore file (if present) at /home/rocio/code/04-GameOfLife/.prettierignore
+["INFO" - 16:05:38] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 16:05:38] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 16:05:38] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/04-GameOfLife/04-Conway-s-Game-of-Life-WS/game.js",
+  "parser": "babel"
+}
+["INFO" - 16:05:38] Formatting completed in 27ms.
+["INFO" - 16:05:38] Formatting file:///home/rocio/code/04-GameOfLife/04-Conway-s-Game-of-Life-WS/game.js
+["INFO" - 16:05:38] Using ignore file (if present) at /home/rocio/code/04-GameOfLife/.prettierignore
+["INFO" - 16:05:38] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 16:05:38] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 16:05:38] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/04-GameOfLife/04-Conway-s-Game-of-Life-WS/game.js",
+  "parser": "babel"
+}
+["INFO" - 16:05:38] Formatting completed in 21ms.
+["INFO" - 16:05:39] Formatting file:///home/rocio/code/04-GameOfLife/04-Conway-s-Game-of-Life-WS/game.js
+["INFO" - 16:05:39] Using ignore file (if present) at /home/rocio/code/04-GameOfLife/.prettierignore
+["INFO" - 16:05:39] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 16:05:39] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 16:05:39] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/04-GameOfLife/04-Conway-s-Game-of-Life-WS/game.js",
+  "parser": "babel"
+}
+["INFO" - 16:05:39] Formatting completed in 37ms.
+["INFO" - 17:00:01] Formatting file:///home/rocio/code/04-GameOfLife/04-Conway-s-Game-of-Life-WS/game.js
+["INFO" - 17:00:01] Using ignore file (if present) at /home/rocio/code/04-GameOfLife/.prettierignore
+["INFO" - 17:00:01] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 17:00:01] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 17:00:01] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/04-GameOfLife/04-Conway-s-Game-of-Life-WS/game.js",
+  "parser": "babel"
+}
+["INFO" - 17:00:01] Formatting completed in 51ms.

@@ -1,0 +1,26 @@
+2023-03-21 12:55:25.058 [info] Log level: Info
+2023-03-21 12:55:25.058 [info] Validating found git in: "git"
+2023-03-21 12:55:25.058 [info] Using git "2.34.1" from "git"
+2023-03-21 12:55:25.058 [info] > git rev-parse --show-toplevel [14ms]
+2023-03-21 12:55:25.058 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-03-21 12:55:25.058 [info] Open repository: /home/rocio/code/01-Estructura-de-datos-WS
+2023-03-21 12:55:25.058 [info] > git rev-parse --show-toplevel [8ms]
+2023-03-21 12:55:25.058 [info] > git rev-parse --show-toplevel [5ms]
+2023-03-21 12:55:25.058 [info] > git config --get commit.template [19ms]
+2023-03-21 12:55:25.058 [info] > git rev-parse --show-toplevel [8ms]
+2023-03-21 12:55:25.058 [info] > git rev-parse --show-toplevel [18ms]
+2023-03-21 12:55:25.058 [info] > git rev-parse --show-toplevel [9ms]
+2023-03-21 12:55:25.058 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [26ms]
+2023-03-21 12:55:25.058 [info] > git rev-parse --show-toplevel [18ms]
+2023-03-21 12:55:25.058 [info] > git status -z -uall [67ms]
+2023-03-21 12:55:25.058 [info] > git rev-parse --show-toplevel [54ms]
+2023-03-21 12:55:25.059 [info] > git config --get commit.template [29ms]
+2023-03-21 12:55:25.096 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [13ms]
+2023-03-21 12:55:25.109 [info] > git status -z -uall [3ms]
+2023-03-21 12:55:25.401 [info] > git check-ignore -v -z --stdin [2ms]
+2023-03-21 12:55:25.879 [info] > git show --textconv :01_queue/queue.js [21ms]
+2023-03-21 12:55:25.879 [info] > git show --textconv :01_queue/queueSpec.js [8ms]
+2023-03-21 12:55:25.879 [info] > git ls-files --stage -- /home/rocio/code/01-Estructura-de-datos-WS/01_queue/queueSpec.js [2ms]
+2023-03-21 12:55:25.889 [info] > git ls-files --stage -- /home/rocio/code/01-Estructura-de-datos-WS/01_queue/queue.js [24ms]
+2023-03-21 12:55:25.899 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [5ms]
+2023-03-21 12:55:25.900 [info] > git cat-file -s c5c4b40f37cf4e21f705589c4f6957370a81b6e8 [12ms]

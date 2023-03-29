@@ -1,0 +1,2167 @@
+["INFO" - 13:27:44] Extension Name: esbenp.prettier-vscode.
+["INFO" - 13:27:44] Extension Version: 9.10.4.
+["INFO" - 13:30:11] Formatting vscode-userdata:/home/rocio/.config/Code/User/settings.json
+["INFO" - 13:30:11] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 13:30:11] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 13:30:11] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/.config/Code/User/settings.json",
+  "parser": "json"
+}
+["INFO" - 13:30:11] Formatting completed in 73ms.
+["INFO" - 13:30:13] Formatting vscode-userdata:/home/rocio/.config/Code/User/settings.json
+["INFO" - 13:30:13] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 13:30:13] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 13:30:13] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/.config/Code/User/settings.json",
+  "parser": "json"
+}
+["INFO" - 13:30:13] Formatting completed in 19ms.
+["INFO" - 13:35:08] Formatting file:///home/rocio/code/02-Selectores-WS/SpecRunner.html
+["INFO" - 13:35:08] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 13:35:08] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 13:35:08] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 13:35:08] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/SpecRunner.html",
+  "parser": "html"
+}
+["INFO" - 13:35:08] Formatting completed in 92ms.
+["INFO" - 14:11:22] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 14:11:22] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 14:11:22] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 14:11:22] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:11:22] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 14:11:22] Formatting completed in 24ms.
+["INFO" - 14:13:05] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 14:13:05] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 14:13:05] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 14:13:05] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:13:05] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 14:13:05] Formatting completed in 23ms.
+["INFO" - 14:13:13] Formatting file:///home/rocio/code/02-Selectores-WS/spec/selectorSpec.js
+["INFO" - 14:13:13] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 14:13:13] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 14:13:13] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:13:13] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/spec/selectorSpec.js",
+  "parser": "babel"
+}
+["INFO" - 14:13:13] Formatting completed in 72ms.
+["INFO" - 14:13:13] Formatting file:///home/rocio/code/02-Selectores-WS/spec/selectorSpec.js
+["INFO" - 14:13:13] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 14:13:13] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 14:13:13] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:13:13] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/spec/selectorSpec.js",
+  "parser": "babel"
+}
+["INFO" - 14:13:13] Formatting completed in 31ms.
+["INFO" - 14:14:53] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 14:14:53] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 14:14:53] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 14:14:53] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:14:53] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 14:14:53] Formatting completed in 12ms.
+["INFO" - 14:15:05] Formatting file:///home/rocio/code/02-Selectores-WS/spec/selectorSpec.js
+["INFO" - 14:15:05] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 14:15:05] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 14:15:05] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:15:05] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/spec/selectorSpec.js",
+  "parser": "babel"
+}
+["INFO" - 14:15:06] Formatting completed in 37ms.
+["INFO" - 14:15:09] Formatting file:///home/rocio/code/02-Selectores-WS/spec/selectorSpec.js
+["INFO" - 14:15:09] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 14:15:09] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 14:15:09] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:15:09] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/spec/selectorSpec.js",
+  "parser": "babel"
+}
+["INFO" - 14:15:09] Formatting completed in 29ms.
+["INFO" - 14:15:09] Formatting file:///home/rocio/code/02-Selectores-WS/spec/selectorSpec.js
+["INFO" - 14:15:09] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 14:15:09] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 14:15:09] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:15:09] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/spec/selectorSpec.js",
+  "parser": "babel"
+}
+["INFO" - 14:15:09] Formatting completed in 33ms.
+["INFO" - 14:23:08] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 14:23:08] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 14:23:08] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 14:23:08] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:23:08] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 14:23:08] Formatting completed in 32ms.
+["INFO" - 14:25:06] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 14:25:06] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 14:25:06] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 14:25:06] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:25:06] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 14:25:06] Formatting completed in 9ms.
+["INFO" - 14:25:39] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 14:25:39] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 14:25:39] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 14:25:39] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:25:39] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 14:25:39] Formatting completed in 9ms.
+["INFO" - 14:26:04] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 14:26:04] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 14:26:04] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 14:26:04] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:26:04] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 14:26:04] Formatting completed in 11ms.
+["INFO" - 14:29:28] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 14:29:28] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 14:29:28] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 14:29:28] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:29:28] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 14:29:28] Formatting completed in 10ms.
+["INFO" - 14:30:34] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 14:30:34] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 14:30:34] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 14:30:34] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:30:34] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 14:30:34] Formatting completed in 10ms.
+["INFO" - 14:30:52] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 14:30:52] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 14:30:52] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 14:30:52] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:30:52] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 14:30:52] Formatting completed in 10ms.
+["INFO" - 14:35:11] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 14:35:11] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 14:35:11] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 14:35:11] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:35:11] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 14:35:11] Formatting completed in 11ms.
+["INFO" - 14:35:11] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 14:35:11] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 14:35:11] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 14:35:11] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:35:11] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 14:35:11] Formatting completed in 13ms.
+["INFO" - 14:42:48] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 14:42:48] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 14:42:48] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 14:42:48] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:42:48] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 14:42:48] Formatting completed in 40ms.
+["INFO" - 15:14:26] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 15:14:26] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 15:14:26] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:14:26] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:14:26] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 15:14:26] Formatting completed in 9ms.
+["INFO" - 15:14:47] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 15:14:47] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 15:14:47] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:14:47] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:14:47] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 15:14:47] Formatting completed in 28ms.
+["INFO" - 15:14:47] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 15:14:47] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 15:14:47] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:14:47] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:14:47] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 15:14:47] Formatting completed in 17ms.
+["INFO" - 15:14:48] Formatting file:///home/rocio/code/02-Selectores-WS/spec/selectorSpec.js
+["INFO" - 15:14:48] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 15:14:48] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:14:48] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:14:48] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/spec/selectorSpec.js",
+  "parser": "babel"
+}
+["INFO" - 15:14:48] Formatting completed in 48ms.
+["INFO" - 15:14:48] Formatting file:///home/rocio/code/02-Selectores-WS/spec/selectorSpec.js
+["INFO" - 15:14:48] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 15:14:48] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:14:48] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:14:48] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/spec/selectorSpec.js",
+  "parser": "babel"
+}
+["INFO" - 15:14:48] Formatting completed in 40ms.
+["INFO" - 15:27:36] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 15:27:36] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 15:27:36] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:27:36] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:27:36] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 15:27:36] Formatting completed in 10ms.
+["INFO" - 15:28:36] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 15:28:36] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 15:28:36] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:28:36] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:28:36] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 15:28:36] Formatting completed in 13ms.
+["INFO" - 15:28:50] Formatting file:///home/rocio/code/02-Selectores-WS/spec/selectorSpec.js
+["INFO" - 15:28:50] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 15:28:50] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:28:50] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:28:50] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/spec/selectorSpec.js",
+  "parser": "babel"
+}
+["INFO" - 15:28:50] Formatting completed in 29ms.
+["INFO" - 15:36:28] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 15:36:28] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 15:36:28] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:36:28] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:36:28] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 15:36:28] Formatting completed in 8ms.
+["INFO" - 15:46:52] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 15:46:52] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 15:46:52] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:46:52] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:46:52] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 15:46:53] Formatting completed in 39ms.
+["INFO" - 15:47:35] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 15:47:35] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 15:47:35] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:47:35] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:47:35] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 15:47:35] Formatting completed in 16ms.
+["INFO" - 15:49:46] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 15:49:46] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 15:49:46] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:49:46] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:49:46] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 15:49:46] Formatting completed in 16ms.
+["INFO" - 15:50:03] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 15:50:03] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 15:50:03] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:50:03] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:50:03] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 15:50:03] Formatting completed in 21ms.
+["INFO" - 15:50:18] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 15:50:18] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 15:50:18] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:50:18] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:50:18] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 15:50:18] Formatting completed in 20ms.
+["INFO" - 15:50:29] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 15:50:29] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 15:50:29] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:50:29] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:50:29] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 15:50:29] Formatting completed in 9ms.
+["INFO" - 15:50:31] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 15:50:31] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 15:50:31] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:50:31] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:50:31] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 15:50:31] Formatting completed in 9ms.
+["INFO" - 15:50:44] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 15:50:44] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 15:50:44] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:50:44] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:50:44] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 15:50:44] Formatting completed in 9ms.
+["INFO" - 15:50:47] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 15:50:47] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 15:50:47] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:50:47] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:50:47] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 15:50:47] Formatting completed in 10ms.
+["INFO" - 15:50:48] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 15:50:48] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 15:50:48] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:50:48] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:50:48] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 15:50:48] Formatting completed in 40ms.
+["INFO" - 15:50:48] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 15:50:48] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 15:50:48] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:50:48] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:50:48] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 15:50:48] Formatting completed in 31ms.
+["INFO" - 15:51:06] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 15:51:06] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 15:51:06] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:51:06] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:51:06] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 15:51:06] Formatting completed in 10ms.
+["INFO" - 15:51:16] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 15:51:16] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 15:51:16] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:51:16] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:51:16] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 15:51:16] Formatting completed in 8ms.
+["INFO" - 15:52:42] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 15:52:42] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 15:52:42] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:52:42] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:52:42] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 15:52:42] Formatting completed in 8ms.
+["INFO" - 15:53:25] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 15:53:25] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 15:53:25] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:53:25] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:53:25] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 15:53:25] Formatting completed in 15ms.
+["INFO" - 16:04:00] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 16:04:00] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 16:04:00] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 16:04:00] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 16:04:00] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 16:04:00] Formatting completed in 11ms.
+["INFO" - 16:17:53] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 16:17:53] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 16:17:53] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 16:17:53] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 16:17:53] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 16:17:53] Formatting completed in 10ms.
+["INFO" - 16:25:29] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 16:25:29] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 16:25:29] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 16:25:29] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 16:25:29] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 16:25:30] Formatting completed in 10ms.
+["INFO" - 16:29:24] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 16:29:24] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 16:29:24] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 16:29:24] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 16:29:24] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 16:29:24] Formatting completed in 11ms.
+["INFO" - 16:31:42] Formatting file:///home/rocio/code/02-Selectores-WS/spec/selectorSpec.js
+["INFO" - 16:31:42] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 16:31:42] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 16:31:42] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 16:31:42] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/spec/selectorSpec.js",
+  "parser": "babel"
+}
+["INFO" - 16:31:42] Formatting completed in 19ms.
+["INFO" - 16:41:37] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 16:41:37] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 16:41:37] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 16:41:37] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 16:41:37] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["ERROR" - 16:41:37] Error formatting document.
+["ERROR" - 16:41:37] Unexpected token (80:1)
+  78 |   return elements;
+  79 | };
+> 80 |
+     | ^
+SyntaxError: Unexpected token (80:1)
+  78 |   return elements;
+  79 | };
+> 80 |
+     | ^
+	at d (/home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/parser-babel.js:22:1054)
+	at f (/home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/parser-babel.js:22:1287)
+	at Object.parse (/home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/parser-babel.js:29:53146)
+	at Object.parse (/home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/index.js:7331:23)
+	at coreFormat (/home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/index.js:8645:18)
+	at formatWithCursor2 (/home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/index.js:8837:18)
+	at /home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/index.js:37832:12
+	at Object.format (/home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/index.js:37846:12)
+	at t.default.format (/home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/dist/extension.js:1:14731)
+	at async t.PrettierEditProvider.provideEdits (/home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/dist/extension.js:1:11417)
+	at async q.provideDocumentFormattingEdits (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:39883)
+["INFO" - 16:41:37] Formatting completed in 13ms.
+["INFO" - 16:43:04] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 16:43:04] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 16:43:04] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 16:43:04] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 16:43:04] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 16:43:04] Formatting completed in 13ms.
+["INFO" - 16:43:47] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 16:43:47] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 16:43:47] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 16:43:47] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 16:43:47] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 16:43:47] Formatting completed in 31ms.
+["INFO" - 16:44:33] Formatting file:///home/rocio/code/02-Selectores-WS/spec/selectorSpec.js
+["INFO" - 16:44:33] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 16:44:33] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 16:44:33] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 16:44:33] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/spec/selectorSpec.js",
+  "parser": "babel"
+}
+["INFO" - 16:44:33] Formatting completed in 24ms.
+["INFO" - 17:53:31] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 17:53:31] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 17:53:31] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 17:53:31] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 17:53:31] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 17:53:31] Formatting completed in 13ms.
+["INFO" - 17:56:42] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 17:56:42] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 17:56:42] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 17:56:42] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 17:56:42] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 17:56:42] Formatting completed in 17ms.
+["INFO" - 17:57:10] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 17:57:10] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 17:57:10] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 17:57:10] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 17:57:10] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 17:57:10] Formatting completed in 12ms.
+["INFO" - 17:57:10] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 17:57:10] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 17:57:10] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 17:57:10] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 17:57:10] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 17:57:10] Formatting completed in 32ms.
+["INFO" - 17:57:13] Formatting file:///home/rocio/code/02-Selectores-WS/SpecRunner.html
+["INFO" - 17:57:13] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 17:57:13] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 17:57:13] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 17:57:13] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/SpecRunner.html",
+  "parser": "html"
+}
+["INFO" - 17:57:13] Formatting completed in 34ms.
+["INFO" - 17:57:15] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 17:57:15] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 17:57:15] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 17:57:15] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 17:57:15] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 17:57:15] Formatting completed in 36ms.
+["INFO" - 17:57:15] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 17:57:15] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 17:57:15] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 17:57:15] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 17:57:15] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 17:57:15] Formatting completed in 21ms.
+["INFO" - 17:57:29] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 17:57:29] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 17:57:29] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 17:57:29] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 17:57:29] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 17:57:29] Formatting completed in 23ms.
+["INFO" - 17:58:01] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 17:58:01] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 17:58:01] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 17:58:01] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 17:58:01] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 17:58:01] Formatting completed in 21ms.
+["INFO" - 18:00:28] Formatting file:///home/rocio/code/02-Selectores-WS/spec/selectorSpec.js
+["INFO" - 18:00:28] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 18:00:28] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 18:00:28] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 18:00:28] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/spec/selectorSpec.js",
+  "parser": "babel"
+}
+["INFO" - 18:00:28] Formatting completed in 26ms.
+["INFO" - 19:08:18] Formatting file:///home/rocio/code/02-Selectores-WS/src/selector.js
+["INFO" - 19:08:18] Using ignore file (if present) at /home/rocio/code/02-Selectores-WS/.prettierignore
+["INFO" - 19:08:18] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 19:08:18] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 19:08:18] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/02-Selectores-WS/src/selector.js",
+  "parser": "babel"
+}
+["INFO" - 19:08:18] Formatting completed in 44ms.

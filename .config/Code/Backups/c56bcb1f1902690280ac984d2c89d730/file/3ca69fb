@@ -1,0 +1,102 @@
+file:///home/rocio/code/01-Estructura-de-datos-WS/03_bst/bst.js {"mtime":1679580010158,"ctime":1679579470970,"size":2101,"etag":"3aaj5lh9c25o","orphaned":false,"typeId":""}
+function BinarySearchTree(valor) {
+  this.value = valor;
+  this.left = null;
+  this.right = null;
+}
+
+BinarySearchTree.prototype.insert = function (valor) {
+  if (valor < this.value) {
+    if (this.left) {
+      return this.left.insert(valor);
+    }
+    this.left = new BinarySearchTree(valor);
+  }
+  if (valor > this.value) {
+    if (this.right) {
+      return this.right.insert(valor);
+    }
+    this.right = new BinarySearchTree(valor);
+  }
+};
+
+BinarySearchTree.prototype.contains = function (valor) {
+  if (this.value === valor) {
+    return true;
+  } 
+    
+  if (valor < this.value) {
+      if (!this.left) {
+        return false;
+      } else {
+        return this.left.contains(valor);
+      }
+    }
+   
+   if (valor > this.value) {
+      if (!this.right) {
+        return false;
+      } else {
+        return this.right.contains(valor);
+      }
+    }
+  
+  return false;
+};
+
+BinarySearchTree.prototype.depthFirstForEach = function (
+  fn,
+  orden = "in-order"
+) {
+  switch (orden) {
+    case "in-order":
+      if (this.left) {
+        this.left.depthFirstForEach(fn, orden);
+      }
+      fn(this.value);
+      if (this.right) {
+        this.right.depthFirstForEach(fn, orden);
+      }
+      break;
+
+    case "pre-order":
+      fn(this.value);
+      if (this.left) {
+        this.left.depthFirstForEach(fn, orden);
+      }
+      if (this.right) {
+        this.right.depthFirstForEach(fn, orden);
+      }
+      break;
+    case "post-order":
+      if (this.left) {
+        this.left.depthFirstForEach(fn, orden);
+      }
+      if (this.right) {
+        this.right.depthFirstForEach(fn, orden);
+      }
+      fn(this.value);
+      break;
+  }
+};
+BinarySearchTree.prototype.breadthFirstForEach = function (fn) {
+  let newArr = [];
+  fn(this.value);
+  if (this.left) {
+    this.left.breadthFirstForEach(fn);
+  }
+  if (this.right) {
+    this.right.breadthFirstForEach(fn);
+  }
+};
+
+BinarySearchTree.prototype.size = function () {
+  let count = 1; // contando la raiz o root
+  if (this.left) {
+    count += this.left.size();
+  }
+  if (this.right) {
+    count += this.right.size();
+  }
+  return count;
+};

@@ -1,0 +1,27 @@
+2023-03-21 12:21:48.019 [info] Log level: Info
+2023-03-21 12:21:48.020 [info] Validating found git in: "git"
+2023-03-21 12:21:48.020 [info] Using git "2.34.1" from "git"
+2023-03-21 12:21:48.020 [info] > git rev-parse --show-toplevel [3ms]
+2023-03-21 12:21:48.020 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-03-21 12:21:48.020 [info] Open repository: /home/rocio/code/01-Estructura-de-datos-WS
+2023-03-21 12:21:48.020 [info] > git rev-parse --show-toplevel [8ms]
+2023-03-21 12:21:48.020 [info] > git config --get commit.template [13ms]
+2023-03-21 12:21:48.020 [info] > git rev-parse --show-toplevel [11ms]
+2023-03-21 12:21:48.020 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2023-03-21 12:21:48.020 [info] > git rev-parse --show-toplevel [9ms]
+2023-03-21 12:21:48.020 [info] > git status -z -uall [7ms]
+2023-03-21 12:21:48.020 [info] > git rev-parse --show-toplevel [4ms]
+2023-03-21 12:21:48.020 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-21 12:21:48.020 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-21 12:21:48.020 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-21 12:21:48.428 [info] > git check-ignore -v -z --stdin [1ms]
+2023-03-21 12:21:48.858 [info] > git show --textconv :01_queue/queue.js [7ms]
+2023-03-21 12:21:48.873 [info] > git show --textconv :01_queue/queueSpec.js [7ms]
+2023-03-21 12:21:48.874 [info] > git ls-files --stage -- /home/rocio/code/01-Estructura-de-datos-WS/01_queue/queue.js [16ms]
+2023-03-21 12:21:48.884 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [1ms]
+2023-03-21 12:21:48.884 [info] > git ls-files --stage -- /home/rocio/code/01-Estructura-de-datos-WS/01_queue/queueSpec.js [11ms]
+2023-03-21 12:21:48.892 [info] > git cat-file -s c5c4b40f37cf4e21f705589c4f6957370a81b6e8 [2ms]
+2023-03-21 12:22:04.381 [info] > git config --get commit.template [15ms]
+2023-03-21 12:22:04.382 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-03-21 12:22:04.395 [info] > git status -z -uall [4ms]
+2023-03-21 12:22:38.118 [info] > git check-ignore -v -z --stdin [1ms]

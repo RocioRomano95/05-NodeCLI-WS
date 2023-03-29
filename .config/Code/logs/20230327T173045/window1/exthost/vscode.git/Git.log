@@ -1,0 +1,22 @@
+2023-03-27 17:30:47.725 [info] Log level: Info
+2023-03-27 17:30:47.725 [info] Validating found git in: "git"
+2023-03-27 17:30:47.725 [info] Using git "2.34.1" from "git"
+2023-03-27 17:30:47.765 [info] > git rev-parse --show-toplevel [41ms]
+2023-03-27 17:30:47.814 [info] > git rev-parse --git-dir --git-common-dir [22ms]
+2023-03-27 17:30:47.841 [info] Open repository: /home/rocio/code/01-Estructura-de-datos-WS
+2023-03-27 17:30:48.021 [info] > git config --get commit.template [141ms]
+2023-03-27 17:30:48.021 [info] > git rev-parse --show-toplevel [167ms]
+2023-03-27 17:30:48.181 [info] > git rev-parse --show-toplevel [136ms]
+2023-03-27 17:30:48.238 [info] > git rev-parse --show-toplevel [35ms]
+2023-03-27 17:30:48.290 [info] > git rev-parse --show-toplevel [16ms]
+2023-03-27 17:30:48.304 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [73ms]
+2023-03-27 17:30:48.342 [info] > git status -z -uall [4ms]
+2023-03-27 17:30:48.356 [info] > git rev-parse --show-toplevel [53ms]
+2023-03-27 17:30:48.387 [info] > git rev-parse --show-toplevel [17ms]
+2023-03-27 17:30:48.392 [info] > git config --get commit.template [7ms]
+2023-03-27 17:30:48.424 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2023-03-27 17:30:48.440 [info] > git status -z -uall [3ms]
+2023-03-27 17:30:48.577 [info] > git check-ignore -v -z --stdin [5ms]
+2023-03-27 17:30:49.798 [info] > git show --textconv :03_bst/bst.js [15ms]
+2023-03-27 17:30:49.799 [info] > git ls-files --stage -- /home/rocio/code/01-Estructura-de-datos-WS/03_bst/bst.js [9ms]
+2023-03-27 17:30:49.806 [info] > git cat-file -s a222f1f4ce032520a0324eb447b81c90c4936305 [2ms]

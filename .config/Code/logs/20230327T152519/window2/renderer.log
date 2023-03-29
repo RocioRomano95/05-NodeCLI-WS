@@ -1,0 +1,4 @@
+2023-03-27 15:25:23.667 [info] [perf] Render performance baseline is 35ms
+2023-03-27 15:25:34.903 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups
+2023-03-27 15:25:35.015 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/rocio/code/02-Selectores-WS/src/selector.js 
+2023-03-27 15:25:38.437 [info] [perf] Render performance baseline is 29ms

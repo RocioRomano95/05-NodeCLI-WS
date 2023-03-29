@@ -1,0 +1,27 @@
+2023-03-27 10:42:10.532 [info] Log level: Info
+2023-03-27 10:42:10.532 [info] Validating found git in: "git"
+2023-03-27 10:42:10.532 [info] Using git "2.34.1" from "git"
+2023-03-27 10:42:10.532 [info] > git rev-parse --show-toplevel [11ms]
+2023-03-27 10:42:10.532 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-03-27 10:42:10.532 [info] Open repository: /home/rocio/code/02-Selectores-WS
+2023-03-27 10:42:10.532 [info] > git rev-parse --show-toplevel [31ms]
+2023-03-27 10:42:10.532 [info] > git config --get commit.template [19ms]
+2023-03-27 10:42:10.532 [info] > git rev-parse --show-toplevel [5ms]
+2023-03-27 10:42:10.532 [info] > git rev-parse --show-toplevel [29ms]
+2023-03-27 10:42:10.532 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [27ms]
+2023-03-27 10:42:10.532 [info] > git rev-parse --show-toplevel [18ms]
+2023-03-27 10:42:10.532 [info] > git status -z -uall [34ms]
+2023-03-27 10:42:10.532 [info] > git rev-parse --show-toplevel [31ms]
+2023-03-27 10:42:10.532 [info] > git config --get commit.template [3ms]
+2023-03-27 10:42:10.532 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2023-03-27 10:42:10.532 [info] > git status -z -uall [4ms]
+2023-03-27 10:42:10.832 [info] > git check-ignore -v -z --stdin [1ms]
+2023-03-27 10:42:11.823 [info] > git show --textconv :src/selector.js [61ms]
+2023-03-27 10:42:11.823 [info] > git show --textconv :spec/selectorSpec.js [39ms]
+2023-03-27 10:42:11.824 [info] > git ls-files --stage -- /home/rocio/code/02-Selectores-WS/spec/selectorSpec.js [26ms]
+2023-03-27 10:42:11.835 [info] > git ls-files --stage -- /home/rocio/code/02-Selectores-WS/src/selector.js [62ms]
+2023-03-27 10:42:11.845 [info] > git cat-file -s e11fba7fa5f43b41670ef1b20df8ae514e26e16f [2ms]
+2023-03-27 10:42:11.845 [info] > git cat-file -s 518617ae6db59ab0ff8c629c71f7ca859a1e36eb [12ms]
+2023-03-27 14:22:23.959 [info] > git show --textconv :SpecRunner.html [19ms]
+2023-03-27 14:22:23.960 [info] > git ls-files --stage -- /home/rocio/code/02-Selectores-WS/SpecRunner.html [2ms]
+2023-03-27 14:22:23.974 [info] > git cat-file -s 3390c9d38d42f1ae10ed519507a1d4d22ddfb917 [1ms]

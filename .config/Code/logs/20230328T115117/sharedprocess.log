@@ -1,0 +1,11 @@
+2023-03-28 11:51:19.303 [info] Starting worker process with pid 3640 (type: fileWatcher, window: 1).
+2023-03-28 11:51:19.304 [info] Starting worker process with pid 3641 (type: fileWatcher, window: 2).
+2023-03-28 12:05:42.773 [info] Worker process with pid 3641 terminated normally (type: fileWatcher, window: 2).
+2023-03-28 12:05:43.346 [info] Starting worker process with pid 5403 (type: fileWatcher, window: 2).
+2023-03-28 12:12:14.346 [info] Getting Manifest... ritwickdey.liveserver
+2023-03-28 12:12:14.356 [info] Installing extension: ritwickdey.liveserver
+2023-03-28 12:12:17.103 [info] Extension signature verification: ritwickdey.liveserver. Verification status: Verified.
+2023-03-28 12:12:18.924 [info] Extracted extension to /home/rocio/.vscode/extensions/.3490ac7c-c61b-407b-a7ee-52f76d5a4655: ritwickdey.liveserver
+2023-03-28 12:12:18.935 [info] Renamed to /home/rocio/.vscode/extensions/ritwickdey.liveserver-5.7.9
+2023-03-28 12:12:18.936 [info] Extracting extension completed. ritwickdey.liveserver
+2023-03-28 12:12:18.944 [info] Extension installed successfully: ritwickdey.liveserver

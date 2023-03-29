@@ -1,0 +1,18 @@
+2023/03/28-11:51:01.935 3 Reusing MANIFEST /home/rocio/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/03/28-11:51:01.937 3 Recovering log #79
+2023/03/28-11:51:01.938 3 Reusing old log /home/rocio/.config/google-chrome/Default/Local Storage/leveldb/000079.log 
+2023/03/28-11:56:15.788 4 Level-0 table #83: started
+2023/03/28-11:56:15.810 4 Level-0 table #83: 447503 bytes OK
+2023/03/28-11:56:15.814 4 Delete type=0 #79
+2023/03/28-11:56:15.815 4 Compacting 4@0 + 1@1 files
+2023/03/28-11:56:15.834 4 Generated table #84@0: 1341 keys, 686226 bytes
+2023/03/28-11:56:15.835 4 Compacted 4@0 + 1@1 files => 686226 bytes
+2023/03/28-11:56:15.838 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-11:56:15.839 4 Delete type=2 #80
+2023/03/28-11:56:15.839 4 Delete type=2 #78
+2023/03/28-11:56:15.839 4 Delete type=2 #76
+2023/03/28-11:56:15.839 4 Delete type=2 #83
+2023/03/28-11:56:15.839 4 Delete type=2 #74
+2023/03/28-14:21:50.380 4 Level-0 table #86: started
+2023/03/28-14:21:50.389 4 Level-0 table #86: 33324 bytes OK
+2023/03/28-14:21:50.395 4 Delete type=0 #82

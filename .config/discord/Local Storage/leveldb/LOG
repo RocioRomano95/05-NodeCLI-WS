@@ -1,0 +1,27 @@
+2023/03/28-11:51:16.991 9d3 Reusing MANIFEST /home/rocio/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/03/28-11:51:16.991 9d3 Recovering log #141
+2023/03/28-11:51:16.992 9d3 Reusing old log /home/rocio/.config/discord/Local Storage/leveldb/000141.log 
+2023/03/28-11:57:17.923 b10 Level-0 table #145: started
+2023/03/28-11:57:17.946 b10 Level-0 table #145: 11993 bytes OK
+2023/03/28-11:57:17.950 b10 Delete type=0 #141
+2023/03/28-13:28:17.923 b10 Level-0 table #147: started
+2023/03/28-13:28:17.931 b10 Level-0 table #147: 9586 bytes OK
+2023/03/28-13:28:17.936 b10 Delete type=0 #144
+2023/03/28-13:28:17.937 b10 Compacting 4@0 + 1@1 files
+2023/03/28-13:28:17.970 b10 Generated table #148@0: 46 keys, 1504305 bytes
+2023/03/28-13:28:17.970 b10 Compacted 4@0 + 1@1 files => 1504305 bytes
+2023/03/28-13:28:17.975 b10 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-13:28:17.975 b10 Delete type=2 #138
+2023/03/28-13:28:17.975 b10 Delete type=2 #147
+2023/03/28-13:28:17.975 b10 Delete type=2 #145
+2023/03/28-13:28:17.975 b10 Delete type=2 #142
+2023/03/28-13:28:17.975 b10 Delete type=2 #140
+2023/03/28-15:05:17.923 b10 Level-0 table #150: started
+2023/03/28-15:05:17.929 b10 Level-0 table #150: 10003 bytes OK
+2023/03/28-15:05:17.932 b10 Delete type=0 #146
+2023/03/28-15:53:17.922 263b Level-0 table #152: started
+2023/03/28-15:53:17.953 263b Level-0 table #152: 1502090 bytes OK
+2023/03/28-15:53:17.957 263b Delete type=0 #149
+2023/03/28-17:16:17.922 283c Level-0 table #154: started
+2023/03/28-17:16:17.928 283c Level-0 table #154: 9843 bytes OK
+2023/03/28-17:16:17.933 283c Delete type=0 #151

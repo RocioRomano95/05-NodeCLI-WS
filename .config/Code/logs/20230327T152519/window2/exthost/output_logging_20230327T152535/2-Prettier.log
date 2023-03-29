@@ -1,0 +1,888 @@
+["INFO" - 15:25:36] Extension Name: esbenp.prettier-vscode.
+["INFO" - 15:25:36] Extension Version: 9.10.4.
+["INFO" - 15:29:26] Formatting file:///home/rocio/code/03-Sorting/testem.json
+["INFO" - 15:29:26] Using ignore file (if present) at /home/rocio/code/03-Sorting/.prettierignore
+["INFO" - 15:29:26] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 15:29:26] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:29:26] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/03-Sorting/testem.json",
+  "parser": "json"
+}
+["INFO" - 15:29:26] Formatting completed in 33ms.
+["INFO" - 15:29:26] Formatting file:///home/rocio/code/03-Sorting/testem.json
+["INFO" - 15:29:26] Using ignore file (if present) at /home/rocio/code/03-Sorting/.prettierignore
+["INFO" - 15:29:26] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 15:29:26] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:29:26] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/03-Sorting/testem.json",
+  "parser": "json"
+}
+["INFO" - 15:29:26] Formatting completed in 5ms.
+["INFO" - 15:30:27] Formatting file:///home/rocio/code/03-Sorting/bubblesort.js
+["INFO" - 15:30:27] Using ignore file (if present) at /home/rocio/code/03-Sorting/.prettierignore
+["INFO" - 15:30:27] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:30:27] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:30:27] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/03-Sorting/bubblesort.js",
+  "parser": "babel"
+}
+["INFO" - 15:30:27] Formatting completed in 13ms.
+["INFO" - 15:32:17] Formatting file:///home/rocio/code/03-Sorting/bubblesort.js
+["INFO" - 15:32:17] Using ignore file (if present) at /home/rocio/code/03-Sorting/.prettierignore
+["INFO" - 15:32:17] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:32:17] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:32:17] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/03-Sorting/bubblesort.js",
+  "parser": "babel"
+}
+["INFO" - 15:32:17] Formatting completed in 22ms.
+["INFO" - 15:37:36] Formatting file:///home/rocio/code/03-Sorting/bubblesort.js
+["INFO" - 15:37:36] Using ignore file (if present) at /home/rocio/code/03-Sorting/.prettierignore
+["INFO" - 15:37:36] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:37:36] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:37:36] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/03-Sorting/bubblesort.js",
+  "parser": "babel"
+}
+["INFO" - 15:37:36] Formatting completed in 23ms.
+["INFO" - 15:41:39] Formatting file:///home/rocio/code/03-Sorting/bubblesort.js
+["INFO" - 15:41:39] Using ignore file (if present) at /home/rocio/code/03-Sorting/.prettierignore
+["INFO" - 15:41:39] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:41:39] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:41:39] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/03-Sorting/bubblesort.js",
+  "parser": "babel"
+}
+["ERROR" - 15:41:39] Error formatting document.
+["ERROR" - 15:41:39] Unexpected token, expected "(" (4:3)
+  2 |   for (let i = 0; i < array.length; i++) {
+  3 |     for
+> 4 |   }
+    |   ^
+  5 |   return array;
+  6 | }
+  7 |
+SyntaxError: Unexpected token, expected "(" (4:3)
+  2 |   for (let i = 0; i < array.length; i++) {
+  3 |     for
+> 4 |   }
+    |   ^
+  5 |   return array;
+  6 | }
+  7 |
+	at d (/home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/parser-babel.js:22:1054)
+	at f (/home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/parser-babel.js:22:1287)
+	at Object.parse (/home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/parser-babel.js:29:53146)
+	at Object.parse (/home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/index.js:7331:23)
+	at coreFormat (/home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/index.js:8645:18)
+	at formatWithCursor2 (/home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/index.js:8837:18)
+	at /home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/index.js:37832:12
+	at Object.format (/home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/index.js:37846:12)
+	at t.default.format (/home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/dist/extension.js:1:14731)
+	at async t.PrettierEditProvider.provideEdits (/home/rocio/.vscode/extensions/esbenp.prettier-vscode-9.10.4/dist/extension.js:1:11417)
+	at async q.provideDocumentFormattingEdits (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:39883)
+["INFO" - 15:41:39] Formatting completed in 10ms.
+["INFO" - 15:53:41] Formatting file:///home/rocio/code/03-Sorting/bubblesort.js
+["INFO" - 15:53:41] Using ignore file (if present) at /home/rocio/code/03-Sorting/.prettierignore
+["INFO" - 15:53:41] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:53:41] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:53:41] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/03-Sorting/bubblesort.js",
+  "parser": "babel"
+}
+["INFO" - 15:53:41] Formatting completed in 21ms.
+["INFO" - 16:06:20] Formatting file:///home/rocio/code/03-Sorting/bubblesort.js
+["INFO" - 16:06:20] Using ignore file (if present) at /home/rocio/code/03-Sorting/.prettierignore
+["INFO" - 16:06:20] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 16:06:20] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 16:06:20] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/03-Sorting/bubblesort.js",
+  "parser": "babel"
+}
+["INFO" - 16:06:20] Formatting completed in 21ms.
+["INFO" - 16:13:28] Formatting file:///home/rocio/code/03-Sorting/bubblesort.js
+["INFO" - 16:13:28] Using ignore file (if present) at /home/rocio/code/03-Sorting/.prettierignore
+["INFO" - 16:13:28] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 16:13:28] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 16:13:28] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/03-Sorting/bubblesort.js",
+  "parser": "babel"
+}
+["INFO" - 16:13:28] Formatting completed in 21ms.
+["INFO" - 16:44:46] Formatting file:///home/rocio/code/03-Sorting/bubblesort.js
+["INFO" - 16:44:46] Using ignore file (if present) at /home/rocio/code/03-Sorting/.prettierignore
+["INFO" - 16:44:46] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 16:44:46] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 16:44:46] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/03-Sorting/bubblesort.js",
+  "parser": "babel"
+}
+["INFO" - 16:44:46] Formatting completed in 15ms.
+["INFO" - 16:53:04] Formatting file:///home/rocio/code/03-Sorting/bubblesort.js
+["INFO" - 16:53:04] Using ignore file (if present) at /home/rocio/code/03-Sorting/.prettierignore
+["INFO" - 16:53:04] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 16:53:04] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 16:53:04] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/03-Sorting/bubblesort.js",
+  "parser": "babel"
+}
+["INFO" - 16:53:04] Formatting completed in 9ms.
+["INFO" - 16:54:24] Formatting file:///home/rocio/code/03-Sorting/bubblesort.js
+["INFO" - 16:54:24] Using ignore file (if present) at /home/rocio/code/03-Sorting/.prettierignore
+["INFO" - 16:54:24] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 16:54:24] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 16:54:24] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/03-Sorting/bubblesort.js",
+  "parser": "babel"
+}
+["INFO" - 16:54:24] Formatting completed in 12ms.
+["INFO" - 16:55:09] Formatting file:///home/rocio/code/03-Sorting/bubblesort.js
+["INFO" - 16:55:09] Using ignore file (if present) at /home/rocio/code/03-Sorting/.prettierignore
+["INFO" - 16:55:09] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 16:55:09] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 16:55:09] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/03-Sorting/bubblesort.js",
+  "parser": "babel"
+}
+["INFO" - 16:55:09] Formatting completed in 13ms.
+["INFO" - 16:57:24] Formatting file:///home/rocio/code/03-Sorting/bubblesort.js
+["INFO" - 16:57:24] Using ignore file (if present) at /home/rocio/code/03-Sorting/.prettierignore
+["INFO" - 16:57:24] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 16:57:24] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 16:57:24] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/03-Sorting/bubblesort.js",
+  "parser": "babel"
+}
+["INFO" - 16:57:24] Formatting completed in 9ms.
+["INFO" - 16:58:17] Formatting file:///home/rocio/code/03-Sorting/bubblesort.js
+["INFO" - 16:58:17] Using ignore file (if present) at /home/rocio/code/03-Sorting/.prettierignore
+["INFO" - 16:58:17] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 16:58:17] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 16:58:17] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/03-Sorting/bubblesort.js",
+  "parser": "babel"
+}
+["INFO" - 16:58:17] Formatting completed in 10ms.
+["INFO" - 16:58:22] Formatting file:///home/rocio/code/03-Sorting/bubblesort.spec.js
+["INFO" - 16:58:22] Using ignore file (if present) at /home/rocio/code/03-Sorting/.prettierignore
+["INFO" - 16:58:22] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 16:58:22] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 16:58:22] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/03-Sorting/bubblesort.spec.js",
+  "parser": "babel"
+}
+["INFO" - 16:58:22] Formatting completed in 11ms.
+["INFO" - 16:58:26] Formatting file:///home/rocio/code/03-Sorting/bubblesort.js
+["INFO" - 16:58:26] Using ignore file (if present) at /home/rocio/code/03-Sorting/.prettierignore
+["INFO" - 16:58:26] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 16:58:26] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 16:58:26] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/03-Sorting/bubblesort.js",
+  "parser": "babel"
+}
+["INFO" - 16:58:26] Formatting completed in 8ms.
+["INFO" - 16:58:41] Formatting file:///home/rocio/code/03-Sorting/bubblesort.js
+["INFO" - 16:58:41] Using ignore file (if present) at /home/rocio/code/03-Sorting/.prettierignore
+["INFO" - 16:58:41] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 16:58:41] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 16:58:41] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/03-Sorting/bubblesort.js",
+  "parser": "babel"
+}
+["INFO" - 16:58:41] Formatting completed in 9ms.
+["INFO" - 16:59:13] Formatting file:///home/rocio/code/03-Sorting/bubblesort.js
+["INFO" - 16:59:13] Using ignore file (if present) at /home/rocio/code/03-Sorting/.prettierignore
+["INFO" - 16:59:13] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 16:59:13] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 16:59:13] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/03-Sorting/bubblesort.js",
+  "parser": "babel"
+}
+["INFO" - 16:59:13] Formatting completed in 10ms.
+["INFO" - 17:00:07] Formatting file:///home/rocio/code/03-Sorting/bubblesort.js
+["INFO" - 17:00:07] Using ignore file (if present) at /home/rocio/code/03-Sorting/.prettierignore
+["INFO" - 17:00:07] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 17:00:07] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 17:00:07] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/03-Sorting/bubblesort.js",
+  "parser": "babel"
+}
+["INFO" - 17:00:07] Formatting completed in 7ms.
+["INFO" - 17:04:59] Formatting file:///home/rocio/code/03-Sorting/bubblesort.js
+["INFO" - 17:04:59] Using ignore file (if present) at /home/rocio/code/03-Sorting/.prettierignore
+["INFO" - 17:04:59] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 17:04:59] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 17:04:59] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/03-Sorting/bubblesort.js",
+  "parser": "babel"
+}
+["INFO" - 17:04:59] Formatting completed in 9ms.
+["INFO" - 17:05:17] Formatting file:///home/rocio/code/03-Sorting/bubblesort.js
+["INFO" - 17:05:17] Using ignore file (if present) at /home/rocio/code/03-Sorting/.prettierignore
+["INFO" - 17:05:17] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 17:05:17] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 17:05:17] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/03-Sorting/bubblesort.js",
+  "parser": "babel"
+}
+["INFO" - 17:05:17] Formatting completed in 10ms.
+["INFO" - 17:07:42] Formatting file:///home/rocio/code/03-Sorting/bubblesort.js
+["INFO" - 17:07:42] Using ignore file (if present) at /home/rocio/code/03-Sorting/.prettierignore
+["INFO" - 17:07:42] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 17:07:42] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 17:07:42] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/03-Sorting/bubblesort.js",
+  "parser": "babel"
+}
+["INFO" - 17:07:42] Formatting completed in 8ms.
+["INFO" - 17:10:07] Formatting file:///home/rocio/code/03-Sorting/bubblesort.js
+["INFO" - 17:10:07] Using ignore file (if present) at /home/rocio/code/03-Sorting/.prettierignore
+["INFO" - 17:10:07] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 17:10:07] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 17:10:07] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/03-Sorting/bubblesort.js",
+  "parser": "babel"
+}
+["INFO" - 17:10:07] Formatting completed in 8ms.
+["INFO" - 17:18:57] Formatting file:///home/rocio/code/03-Sorting/bubblesort.spec.js
+["INFO" - 17:18:57] Using ignore file (if present) at /home/rocio/code/03-Sorting/.prettierignore
+["INFO" - 17:18:57] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 17:18:57] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 17:18:57] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/03-Sorting/bubblesort.spec.js",
+  "parser": "babel"
+}
+["INFO" - 17:18:57] Formatting completed in 12ms.
+["INFO" - 17:19:02] Formatting file:///home/rocio/code/03-Sorting/bubblesort.spec.js
+["INFO" - 17:19:02] Using ignore file (if present) at /home/rocio/code/03-Sorting/.prettierignore
+["INFO" - 17:19:02] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 17:19:02] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 17:19:02] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/03-Sorting/bubblesort.spec.js",
+  "parser": "babel"
+}
+["INFO" - 17:19:02] Formatting completed in 11ms.

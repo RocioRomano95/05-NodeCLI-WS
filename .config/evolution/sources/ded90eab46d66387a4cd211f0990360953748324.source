@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=rociobromano@gmail.com
+Enabled=true
+Parent=a876d5f6534b9a6cc0ffa92ab82230433b35b6ce
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=904b361232377ea6b972e0589e72d55c0788e35a
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=rociobromano@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

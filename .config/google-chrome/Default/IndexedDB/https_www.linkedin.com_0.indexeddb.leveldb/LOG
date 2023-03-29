@@ -1,0 +1,6 @@
+2023/03/23-10:09:46.844 11d7 Creating DB /home/rocio/.config/google-chrome/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb since it was missing.
+2023/03/23-10:09:46.853 11d7 Reusing MANIFEST /home/rocio/.config/google-chrome/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/23-14:10:31.969 11d8 Level-0 table #5: started
+2023/03/23-14:10:31.971 11d8 Level-0 table #5: 21038 bytes OK
+2023/03/23-14:10:31.974 11d8 Delete type=0 #3
+2023/03/23-14:10:31.974 11d8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

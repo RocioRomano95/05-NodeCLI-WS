@@ -1,0 +1,497 @@
+["INFO" - 12:55:45] Extension Name: esbenp.prettier-vscode.
+["INFO" - 12:55:45] Extension Version: 9.10.4.
+["INFO" - 12:59:25] Formatting file:///home/rocio/code/01-Estructura-de-datos-WS/02_linkedlist/linkedlist.js
+["INFO" - 12:59:25] Using ignore file (if present) at /home/rocio/code/01-Estructura-de-datos-WS/.prettierignore
+["INFO" - 12:59:25] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 12:59:25] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:59:25] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/01-Estructura-de-datos-WS/02_linkedlist/linkedlist.js",
+  "parser": "babel"
+}
+["INFO" - 12:59:25] Formatting completed in 65ms.
+["INFO" - 13:03:14] Formatting file:///home/rocio/code/01-Estructura-de-datos-WS/02_linkedlist/linkedlistSpec.js
+["INFO" - 13:03:14] Using ignore file (if present) at /home/rocio/code/01-Estructura-de-datos-WS/.prettierignore
+["INFO" - 13:03:14] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 13:03:14] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 13:03:14] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/01-Estructura-de-datos-WS/02_linkedlist/linkedlistSpec.js",
+  "parser": "babel"
+}
+["INFO" - 13:03:14] Formatting completed in 64ms.
+["INFO" - 13:13:55] Formatting file:///home/rocio/code/01-Estructura-de-datos-WS/02_linkedlist/linkedlist.js
+["INFO" - 13:13:55] Using ignore file (if present) at /home/rocio/code/01-Estructura-de-datos-WS/.prettierignore
+["INFO" - 13:13:55] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 13:13:55] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 13:13:55] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/01-Estructura-de-datos-WS/02_linkedlist/linkedlist.js",
+  "parser": "babel"
+}
+["INFO" - 13:13:55] Formatting completed in 14ms.
+["INFO" - 13:13:58] Formatting file:///home/rocio/code/01-Estructura-de-datos-WS/02_linkedlist/linkedlist.js
+["INFO" - 13:13:58] Using ignore file (if present) at /home/rocio/code/01-Estructura-de-datos-WS/.prettierignore
+["INFO" - 13:13:58] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 13:13:58] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 13:13:58] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/01-Estructura-de-datos-WS/02_linkedlist/linkedlist.js",
+  "parser": "babel"
+}
+["INFO" - 13:13:58] Formatting completed in 37ms.
+["INFO" - 14:14:27] Formatting file:///home/rocio/code/01-Estructura-de-datos-WS/02_linkedlist/linkedlist.js
+["INFO" - 14:14:27] Using ignore file (if present) at /home/rocio/code/01-Estructura-de-datos-WS/.prettierignore
+["INFO" - 14:14:27] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 14:14:27] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:14:27] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/01-Estructura-de-datos-WS/02_linkedlist/linkedlist.js",
+  "parser": "babel"
+}
+["INFO" - 14:14:27] Formatting completed in 20ms.
+["INFO" - 14:22:07] Formatting file:///home/rocio/code/01-Estructura-de-datos-WS/testem.json
+["INFO" - 14:22:07] Using ignore file (if present) at /home/rocio/code/01-Estructura-de-datos-WS/.prettierignore
+["INFO" - 14:22:07] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 14:22:07] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:22:07] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/01-Estructura-de-datos-WS/testem.json",
+  "parser": "json"
+}
+["INFO" - 14:22:07] Formatting completed in 25ms.
+["INFO" - 14:22:07] Formatting file:///home/rocio/code/01-Estructura-de-datos-WS/testem.json
+["INFO" - 14:22:07] Using ignore file (if present) at /home/rocio/code/01-Estructura-de-datos-WS/.prettierignore
+["INFO" - 14:22:07] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 14:22:07] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:22:07] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/01-Estructura-de-datos-WS/testem.json",
+  "parser": "json"
+}
+["INFO" - 14:22:07] Formatting completed in 20ms.
+["INFO" - 14:22:07] Formatting file:///home/rocio/code/01-Estructura-de-datos-WS/testem.json
+["INFO" - 14:22:07] Using ignore file (if present) at /home/rocio/code/01-Estructura-de-datos-WS/.prettierignore
+["INFO" - 14:22:07] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 14:22:07] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:22:07] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/01-Estructura-de-datos-WS/testem.json",
+  "parser": "json"
+}
+["INFO" - 14:22:08] Formatting completed in 26ms.
+["INFO" - 14:22:11] Formatting file:///home/rocio/code/01-Estructura-de-datos-WS/02_linkedlist/linkedlist.js
+["INFO" - 14:22:11] Using ignore file (if present) at /home/rocio/code/01-Estructura-de-datos-WS/.prettierignore
+["INFO" - 14:22:11] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 14:22:11] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:22:11] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/01-Estructura-de-datos-WS/02_linkedlist/linkedlist.js",
+  "parser": "babel"
+}
+["INFO" - 14:22:11] Formatting completed in 31ms.
+["INFO" - 14:22:11] Formatting file:///home/rocio/code/01-Estructura-de-datos-WS/02_linkedlist/linkedlist.js
+["INFO" - 14:22:11] Using ignore file (if present) at /home/rocio/code/01-Estructura-de-datos-WS/.prettierignore
+["INFO" - 14:22:11] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 14:22:11] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:22:11] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/01-Estructura-de-datos-WS/02_linkedlist/linkedlist.js",
+  "parser": "babel"
+}
+["INFO" - 14:22:11] Formatting completed in 13ms.
+["INFO" - 14:32:32] Formatting file:///home/rocio/code/01-Estructura-de-datos-WS/02_linkedlist/linkedlist.js
+["INFO" - 14:32:32] Using ignore file (if present) at /home/rocio/code/01-Estructura-de-datos-WS/.prettierignore
+["INFO" - 14:32:32] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 14:32:32] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:32:32] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/01-Estructura-de-datos-WS/02_linkedlist/linkedlist.js",
+  "parser": "babel"
+}
+["INFO" - 14:32:32] Formatting completed in 39ms.
+["INFO" - 14:42:36] Formatting file:///home/rocio/code/01-Estructura-de-datos-WS/02_linkedlist/linkedlist.js
+["INFO" - 14:42:36] Using ignore file (if present) at /home/rocio/code/01-Estructura-de-datos-WS/.prettierignore
+["INFO" - 14:42:36] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 14:42:36] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:42:36] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/01-Estructura-de-datos-WS/02_linkedlist/linkedlist.js",
+  "parser": "babel"
+}
+["INFO" - 14:42:36] Formatting completed in 39ms.
+["INFO" - 15:03:09] Formatting file:///home/rocio/code/01-Estructura-de-datos-WS/02_linkedlist/linkedlist.js
+["INFO" - 15:03:09] Using ignore file (if present) at /home/rocio/code/01-Estructura-de-datos-WS/.prettierignore
+["INFO" - 15:03:09] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:03:09] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:03:09] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/01-Estructura-de-datos-WS/02_linkedlist/linkedlist.js",
+  "parser": "babel"
+}
+["INFO" - 15:03:09] Formatting completed in 21ms.
+["INFO" - 15:11:26] Formatting file:///home/rocio/code/01-Estructura-de-datos-WS/02_linkedlist/linkedlist.js
+["INFO" - 15:11:26] Using ignore file (if present) at /home/rocio/code/01-Estructura-de-datos-WS/.prettierignore
+["INFO" - 15:11:26] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:11:26] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:11:26] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/01-Estructura-de-datos-WS/02_linkedlist/linkedlist.js",
+  "parser": "babel"
+}
+["INFO" - 15:11:26] Formatting completed in 35ms.
+["INFO" - 15:13:22] Formatting file:///home/rocio/code/01-Estructura-de-datos-WS/02_linkedlist/linkedlist.js
+["INFO" - 15:13:22] Using ignore file (if present) at /home/rocio/code/01-Estructura-de-datos-WS/.prettierignore
+["INFO" - 15:13:22] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 15:13:22] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:13:22] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/rocio/code/01-Estructura-de-datos-WS/02_linkedlist/linkedlist.js",
+  "parser": "babel"
+}
+["INFO" - 15:13:22] Formatting completed in 9ms.
